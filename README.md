@@ -3,6 +3,8 @@ QuickChat is a secure, fast, and user-friendly real-time chat application develo
 
 This project is designed with scalability in mind, making it ready for future enhancements such as media sharing, group management, and voice/video calls.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📌 Features
 🔐 Secure Authentication – Firebase-powered login/signup with session handling.
 
@@ -22,7 +24,9 @@ This project is designed with scalability in mind, making it ready for future en
 
 📱 Responsive UI – Works seamlessly on desktop, tablet, and mobile devices.
 
-🚪 Logout Functionality – Securely end user sessions anytime.
+🚪 Logout Functionality – Securely end user sessions anyti
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠 Tech Stack
 Frontend:
@@ -45,10 +49,11 @@ Media Handling:
 
 Cloudinary
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📂 Project Structure
-csharp
-Copy
-Edit
+
 QuickChat/
 │
 ├── public/               # Static assets
@@ -62,20 +67,26 @@ QuickChat/
 │
 ├── package.json          # Dependencies & scripts
 └── README.md             # Project documentation
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ⚙️ Installation & Setup
+
 Clone the Repository
 
-bash
-Copy
-Edit
+```
 git clone https://github.com/your-username/QuickChat.git
 cd QuickChat
+```
+
 Install Dependencies
 
-bash
-Copy
-Edit
+```
 npm install
+```
+
 Set up Firebase
 
 Create a Firebase project in Firebase Console.
@@ -96,30 +107,24 @@ Store them in environment variables.
 
 Run the Application
 
-bash
-Copy
-Edit
+```
 npm start
-🚀 Future Scope
-📎 Media sharing (images, videos, documents).
 
-🎥 Voice and video calling.
+```
 
-👥 Group chat management with admin controls.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🤖 AI-powered chatbot and smart suggestions.
-
-🔒 End-to-end encryption.
-
-🌍 Multilingual chat translation.
 
 📜 License
 This project is licensed under the MIT License – you’re free to use, modify, and distribute it with attribution.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 🤝 Contributing
 Contributions are welcome! Please fork this repository, make changes, and submit a pull request.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 👨‍💻 Author
 Developed by Satyam Jaiswal during the Hindalco Summer Training Program.
-
-
